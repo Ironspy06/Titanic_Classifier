@@ -1,3 +1,3 @@
 # Titanic_Classifier
-run this classifier using which runs the app 
+run this classifier using
 streamlit run titanic.py
